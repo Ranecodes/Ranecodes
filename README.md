@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ranecodes
-- 👀 I’m interested in backend development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on beginner python projects to improve my coding knowledge.
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on beginner frontend development projects to improve my coding knowledge.
 - 📫 How to reach me : ranehobasi@gmail.com
 
 <!---
