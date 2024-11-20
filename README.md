@@ -8,7 +8,7 @@ I'm a graduate of Altschool Africa where I learned Frontend Development.
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Nuxt, Vue JS, and Reactjs.
+- 🌱 I’m currently learning Typescript, Nuxt, Vue JS, and Reactjs.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front End Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ranehobasi@gmail.com.
